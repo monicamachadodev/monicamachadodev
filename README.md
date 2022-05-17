@@ -2,7 +2,7 @@
 
 <h1 align="center">Olá 👋, Eu sou Mônica Machado</h1>
 <h3 align="center">Desenvolvedora Front-end</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/bongo-cat-codes-gif-22068584">
+<img align="right" alt="Coding" width="300" src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif">
 
 - 🔭 Atualmente estou trabalhando em [Digital Gama Br](www.digitalgamabr .com)
 
