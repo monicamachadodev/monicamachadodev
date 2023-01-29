@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Olá 👋, Eu sou Mônica Machado</h1>
-<h3 align="center">E-mail Designer</h3>
+<h3 align="center">E-mail Developer</h3>
 <img align="right" alt="Coding" width="370" src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif">
 
 - 🔭 Atualmente estou trabalhando em [Digital Gama Br](www.digitalgamabr.com)
