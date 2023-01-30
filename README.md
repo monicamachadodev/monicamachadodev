@@ -19,9 +19,9 @@
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=monicamachadodev&show_icons=true&locale=en&theme=tokyonight" alt="monicamachadodev" /> </p>
 <p>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=monicamachadodev&show_icons=true&locale=en&layout=compact&theme=tokyonight&card_width=300px" alt="monicamachadodev" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=monicamachadodev&show_icons=true&locale=en&layout=compact&theme=tokyonight&card_width=350px" alt="monicamachadodev" />
 </p>
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
 <h3 align="left">Repósitorio</h3>
 <br>
 
