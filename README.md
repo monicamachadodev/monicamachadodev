@@ -1,10 +1,10 @@
 
 
 <h1 align="center">Olá 👋, Eu sou Mônica Machado</h1>
-<h3 align="center" > E-mail Developer</h3>
+<h3 align="center" > Cientista de Dados </h3>
 <img align="right" alt="Coding" width="370" src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif">
 
-- 🌱 Atualmente estou estudando sobre E-mail Html Marketing
+- 🌱 Atualmente estou estudando sobre DATA SCIENCE
 
 - 💬 Consulte-me sobre **HTML, CSS e Javascript**
 
