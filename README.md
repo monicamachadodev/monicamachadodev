@@ -11,12 +11,6 @@
 - 📫 Conecte-se comigo pelo e-mail **alessandra.ovando85@gmail. com**
 
 - Perfil Profissional: [Mônica Machado](https://linkedin.com/in/monicaalessandra)
-<h3 align="left" font="red">Repósitorios:</h3>
-<br>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=monicamachadodev&repo=projeto-android)](https://github.com/monicamachadodev/projeto-android)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=monicamachadodev&repo=projeto-cordel)](https://github.com/monicamachadodev/projeto-cordel)
 
 
 <h3 align="left"> Ferramentas e Idiomas: </h3>
