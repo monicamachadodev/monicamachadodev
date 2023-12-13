@@ -39,12 +39,14 @@ Abaixo você encontrará uma visão geral dos meus conhecimentos, habilidades e 
 
 ## Projetos Destacados
 
+1. **Previsão do Preço de Ações usando Machine Learning**
+   - https://github.com/monicamachadodev/Agente-de-negocios
+
+2. **Detecção de Fraude em Transações de Cartões de Crédito usando Machine Learning**
+   - https://github.com/monicamachadodev/Deteccao-fraude-cartao-credito
+     
 <!-- 1. **Análise Exploratória de Dados em [Nome do Projeto]**
    - [Link para o Projeto]
-
-2. **Previsão de [Nome da Tarefa] usando Machine Learning**
-   - [Link para o Projeto]
-
 3. **Visualização Interativa em [Nome do Dashboard]**
    - [Link para o Projeto] -->
 
