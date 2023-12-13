@@ -1,4 +1,4 @@
-![Alt ou título da imagem](URL da imagem)
+<!-- ![Alt ou título da imagem](URL da imagem) -->
 
 # *Cientista de Dados*
 
