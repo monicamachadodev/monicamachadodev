@@ -1,6 +1,6 @@
 <!-- ![Alt ou título da imagem](URL da imagem) -->
 
-# *Cientista de Dados*
+# *Cientista de Dados - Analista de Dados - Inteligência de Negócio*
 
 Olá, bem-vindo/a ao meu perfil! Sou Mônica Machado, uma cientista de dados apaixonada por desvendar insights valiosos a partir de dados. 
 
