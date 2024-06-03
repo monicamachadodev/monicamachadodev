@@ -32,6 +32,9 @@ Abaixo você encontrará uma visão geral dos meus conhecimentos, habilidades e 
 - 🛠️ **Ferramentas:**
   - Jupyter Notebooks
   - RStudio
+  - Google Colab
+  - Looker Studio
+  - Power BI
   - Git, Docker
 
 - 📈 **Visualização de Dados:**
