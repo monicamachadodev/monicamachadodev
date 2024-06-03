@@ -14,7 +14,7 @@ Abaixo você encontrará uma visão geral dos meus conhecimentos, habilidades e 
 - 👩‍💻 Cientista de Dados
 - 🎓 Bacharel em Administração
 - 📚 Cursando Pós-graduação em Data Science
-- 📚 Cursando MBA em Bussiness Intelligence
+- 📚 Cursando MBA em Business Intelligence
 - 🏆 Certificada pelo Google em Gerenciamento de Projetos
 
 ## Habilidades
