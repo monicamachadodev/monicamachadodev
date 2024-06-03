@@ -1,6 +1,6 @@
 <!-- ![Alt ou título da imagem](URL da imagem) -->
 
-# *Cientista de Dados - Analista de Dados - Inteligência de Negócio*
+# *Cientista de Dados*
 
 Olá, bem-vindo/a ao meu perfil! Sou Mônica Machado, uma cientista de dados apaixonada por desvendar insights valiosos a partir de dados. 
 
@@ -13,8 +13,9 @@ Abaixo você encontrará uma visão geral dos meus conhecimentos, habilidades e 
 
 - 👩‍💻 Cientista de Dados
 - 🎓 Bacharel em Administração
-- 📚 Pós-graduanda em Data Science
-- 🏆 Certificado pelo Google em Gerenciamento de Projetos
+- 📚 Cursando Pós-graduação em Data Science
+- 📚 Cursando MBA em Bussiness Intelligence
+- 🏆 Certificada pelo Google em Gerenciamento de Projetos
 
 ## Habilidades
 
