@@ -53,9 +53,7 @@ Abaixo você encontrará uma visão geral dos meus conhecimentos, habilidades e 
      
 3. **Análise do Mercado de Ações **
    - https://github.com/monicamachadodev/projeto-analise-de-dados-financeiros
-     
-
-
+<br>
 Sinta-se à vontade para explorar meus projetos e entrar em contato para discussões, colaborações ou feedback construtivo. Vamos juntos explorar o incrível mundo dos dados!
 
 [![Badge de Data Science](https://img.shields.io/badge/Data%20Science-Enthusiast-blue)](https://github.com/monicamachadodev)
