@@ -1,8 +1,8 @@
 <!-- ![Alt ou título da imagem](URL da imagem) -->
 
-# *Cientista de Dados*
+# *Especialista em BI e Data Science*
 
-Olá, bem-vindo/a ao meu perfil! Sou Mônica Machado, uma cientista de dados apaixonada por desvendar insights valiosos a partir de dados. 
+Olá, bem-vindo/a ao meu perfil! Sou Mônica Machado, especialista em BI e Data Science apaixonada por desvendar insights valiosos a partir de dados. 
 
 Abaixo você encontrará uma visão geral dos meus conhecimentos, habilidades e projetos.
 
@@ -11,7 +11,6 @@ Abaixo você encontrará uma visão geral dos meus conhecimentos, habilidades e 
 
 ## Sobre Mim
 
-- 👩‍💻 Cientista de Dados
 - 🎓 Bacharel em Administração
 - 📚 Cursando Pós-graduação em Data Science
 - 📚 Cursando MBA em Business Intelligence
@@ -23,6 +22,9 @@ Abaixo você encontrará uma visão geral dos meus conhecimentos, habilidades e 
   - Python
   - R
   - SQL
+  - HTML
+  - CSS
+  - Javascript
 
 - 📊 **Bibliotecas e Frameworks:**
   - Pandas, NumPy, Scikit-learn
@@ -49,13 +51,12 @@ Abaixo você encontrará uma visão geral dos meus conhecimentos, habilidades e 
 2. **Detecção de Fraude em Transações de Cartões de Crédito usando Machine Learning**
    - https://github.com/monicamachadodev/Deteccao-fraude-cartao-credito
      
-<!-- 1. **Análise Exploratória de Dados em [Nome do Projeto]**
+3. **Análise do Mercado de Ações **
    - [Link para o Projeto]
-3. **Visualização Interativa em [Nome do Dashboard]**
-   - [Link para o Projeto] -->
+     
 
 
 Sinta-se à vontade para explorar meus projetos e entrar em contato para discussões, colaborações ou feedback construtivo. Vamos juntos explorar o incrível mundo dos dados!
 
-[![Badge de Data Science](https://img.shields.io/badge/Data%20Science-Enthusiast-blue)](https://github.com/seu-usuario)
+[![Badge de Data Science](https://img.shields.io/badge/Data%20Science-Enthusiast-blue)](https://github.com/monicamachadodev)
 
