@@ -52,7 +52,7 @@ Abaixo você encontrará uma visão geral dos meus conhecimentos, habilidades e 
    - https://github.com/monicamachadodev/Deteccao-fraude-cartao-credito
      
 3. **Análise do Mercado de Ações **
-   - [Link para o Projeto]
+   - https://github.com/monicamachadodev/projeto-analise-de-dados-financeiros
      
 
 
