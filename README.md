@@ -2,8 +2,9 @@
 
 # *Especialista em Data Science e Business Intelligence*
 
-Olá, bem-vindo/a ao meu perfil! Sou Mônica Machado, especialista em Data Science e Business Intelligence apaixonada por desvendar insights valiosos a partir de dados. 
+Olá, bem-vindo/a ao meu perfil! 
 
+Sou Mônica Machado, especialista em Data Science e Business Intelligence apaixonada por desvendar insights valiosos a partir de dados. 
 Abaixo você encontrará uma visão geral dos meus conhecimentos, habilidades e projetos.
 
 ## Contato
@@ -12,10 +13,10 @@ Abaixo você encontrará uma visão geral dos meus conhecimentos, habilidades e 
 ## Sobre Mim
 
 - 🎓 Bacharel em Administração
-- 📚 Pós-graduação em Data Science
+- 📚 Especialização em Data Science
 - 📚 MBA em Business Intelligence
-- 🏆 Certificada pelo Google em Gerenciamento de Projetos
 - 🏆 Certificada pelo Google Advanced Data Analytics
+- 🏆 Certificada pelo Google em Gerenciamento de Projetos
   
 ## Habilidades
 
