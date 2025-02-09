@@ -36,17 +36,17 @@ Aqui estão alguns dos projetos que desenvolvi:
 1. **Previsão do Preço de Ações usando Machine Learning**
    - **Descrição**:
    - **Tecnologias**:
-   - https://github.com/monicamachadodev/Agente-de-negocios
+   - [Previsão do Preço de Ações](https://github.com/monicamachadodev/Agente-de-negocios)
 
 2. **Detecção de Fraude em Transações de Cartões de Crédito usando Machine Learning**
    - **Descrição**:
    - **Tecnologias**:
-   - https://github.com/monicamachadodev/Deteccao-fraude-cartao-credito
+   - [Detecção de Fraude em Transações de Cartões de Crédito](https://github.com/monicamachadodev/Deteccao-fraude-cartao-credito)
      
 3. **Análise do Mercado de Ações com Notificação por Email**
    - **Descrição**:
    - **Tecnologias**:
-   - https://github.com/monicamachadodev/projeto-analise-de-dados-financeiros
+   - [Análise do Mercado de Ações](https://github.com/monicamachadodev/projeto-analise-de-dados-financeiros)
 <br>
 Sinta-se à vontade para explorar meus projetos e entrar em contato se tiver alguma dúvida ou oportunidade de colaboração.
 <br>
