@@ -1,4 +1,4 @@
-<img src="https://github.com/monicamachadodev/monicamachadodev/blob/main/capa-seja-capaz.jpg">
+![Análise do Mercado de Ações](imagens/mercado-financeiro.gif)
 
 # *Especialista em Data Science e Business Intelligence*
 
