@@ -1,8 +1,7 @@
 ![Especialista em Data Science e Business Intelligence](capa-seja-capaz.gif)
-
 # *Especialista em Data Science e Business Intelligence*
 
-Olá, bem-vindo/a ao meu perfil! 
+Obrigada por visitar meu perfil! 
 
 Sou Mônica Machado, especialista em Data Science e Business Intelligence apaixonada por desvendar insights valiosos a partir de dados. 
 Abaixo você encontrará uma visão geral dos meus conhecimentos, habilidades e projetos.
@@ -17,48 +16,40 @@ Abaixo você encontrará uma visão geral dos meus conhecimentos, habilidades e 
 - 📚 MBA em Business Intelligence
 - 🏆 Certificada pelo Google Advanced Data Analytics
 - 🏆 Certificada pelo Google em Gerenciamento de Projetos
+
+### 📚 Aprendizado Contínuo
+
+Estou sempre buscando aprender e me atualizar com as últimas tendências e tecnologias em ciência de dados e inteligência de negócios. 
   
-## Habilidades
+## 🚀 Habilidades e Competências
 
-- 💻 **Linguagens:**
-  - Python
-  - R
-  - SQL
-  - HTML
-  - CSS
-  - Javascript
+- **Análise de Dados**: Limpeza, transformação e análise de grandes volumes de dados.
+- **Machine Learning**: Desenvolvimento de modelos preditivos e algoritmos de aprendizado de máquina.
+- **Visualização de Dados**: Criação de dashboards e relatórios interativos com ferramentas como Tableau, Power BI e Python (Matplotlib, Seaborn, Plotly).
+- **Inteligência de Negócios**: Extração de insights estratégicos para suportar decisões de negócios.
+- **Ferramentas e Tecnologias**: Python, R, SQL, Pandas, Scikit-learn, TensorFlow, PySpark, Git, Docker, entre outras.
 
-- 📊 **Bibliotecas e Frameworks:**
-  - Pandas, NumPy, Scikit-learn
-  - TensorFlow, PyTorch
-  - Spark
+## 📂 Projetos Destacados
 
-- 🛠️ **Ferramentas:**
-  - Jupyter Notebooks
-  - RStudio
-  - Google Colab
-  - Looker Studio
-  - Power BI
-  - Git, Docker
-
-- 📈 **Visualização de Dados:**
-  - Matplotlib
-  - Seaborn
-
-## Projetos Destacados
+Aqui estão alguns dos projetos que desenvolvi:
 
 1. **Previsão do Preço de Ações usando Machine Learning**
+   - **Descrição**:
+   - **Tecnologias**:
    - https://github.com/monicamachadodev/Agente-de-negocios
 
 2. **Detecção de Fraude em Transações de Cartões de Crédito usando Machine Learning**
+   - **Descrição**:
+   - **Tecnologias**:
    - https://github.com/monicamachadodev/Deteccao-fraude-cartao-credito
      
 3. **Análise do Mercado de Ações com Notificação por Email**
+   - **Descrição**:
+   - **Tecnologias**:
    - https://github.com/monicamachadodev/projeto-analise-de-dados-financeiros
 <br>
-Sinta-se à vontade para explorar meus projetos e entrar em contato para discussões, colaborações ou feedback construtivo.
-
-Vamos juntos explorar o incrível mundo dos dados!
+Sinta-se à vontade para explorar meus projetos e entrar em contato se tiver alguma dúvida ou oportunidade de colaboração.
+<br>
 
 [![Badge de Data Science](https://img.shields.io/badge/Data%20Science-Enthusiast-blue)](https://github.com/monicamachadodev)
 
