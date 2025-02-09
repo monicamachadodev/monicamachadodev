@@ -1,4 +1,4 @@
-<!-- ![Alt ou título da imagem](URL da imagem) -->
+<img src="https://github.com/monicamachadodev/salifort-turnover-prediction/blob/main/capa-previsao-turnover.jpg">
 
 # *Especialista em Data Science e Business Intelligence*
 
