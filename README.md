@@ -1,7 +1,7 @@
 ![Especialista em Data Science e Business Intelligence](capa-seja-capaz.gif)
 # *Especialista em Data Science e Business Intelligence*
 
-Obrigada por visitar meu perfil! 
+
 
 Sou Mônica Machado, especialista em Data Science e Business Intelligence apaixonada por desvendar insights valiosos a partir de dados. 
 Abaixo você encontrará uma visão geral dos meus conhecimentos, habilidades e projetos.
@@ -33,23 +33,22 @@ Estou sempre buscando aprender e me atualizar com as últimas tendências e tecn
 
 Aqui estão alguns dos projetos que desenvolvi:
 
-1. **Previsão do Preço de Ações usando Machine Learning**
+1. [**Previsão do Preço de Ações**](https://github.com/monicamachadodev/Agente-de-negocios)
    - **Descrição**:
    - **Tecnologias**:
-   - [Previsão do Preço de Ações](https://github.com/monicamachadodev/Agente-de-negocios)
 
-2. **Detecção de Fraude em Transações de Cartões de Crédito usando Machine Learning**
+2. [**Detecção de Fraude em Transações de Cartões de Crédito**](https://github.com/monicamachadodev/Deteccao-fraude-cartao-credito)
    - **Descrição**:
    - **Tecnologias**:
-   - [Detecção de Fraude em Transações de Cartões de Crédito](https://github.com/monicamachadodev/Deteccao-fraude-cartao-credito)
      
-3. **Análise do Mercado de Ações com Notificação por Email**
+3. [**Análise do Mercado de Ações com Notificação por Email**](https://github.com/monicamachadodev/projeto-analise-de-dados-financeiros)
    - **Descrição**:
    - **Tecnologias**:
-   - [Análise do Mercado de Ações](https://github.com/monicamachadodev/projeto-analise-de-dados-financeiros)
+<br>
+Obrigada por visitar meu perfil!
 <br>
 Sinta-se à vontade para explorar meus projetos e entrar em contato se tiver alguma dúvida ou oportunidade de colaboração.
-<br>
+
 
 [![Badge de Data Science](https://img.shields.io/badge/Data%20Science-Enthusiast-blue)](https://github.com/monicamachadodev)
 
