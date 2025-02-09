@@ -1,4 +1,4 @@
-<img src="https://github.com/monicamachadodev/salifort-turnover-prediction/blob/main/capa-previsao-turnover.jpg">
+<img src="https://github.com/monicamachadodev/monicamachadodev/blob/main/capa-seja-capaz.jpg">
 
 # *Especialista em Data Science e Business Intelligence*
 
