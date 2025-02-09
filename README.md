@@ -1,4 +1,4 @@
-
+![Análise do Mercado de Ações](imagens/mercado-financeiro.gif)
 
 # *Especialista em Data Science e Business Intelligence*
 
