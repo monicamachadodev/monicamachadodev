@@ -11,9 +11,9 @@ Abaixo você encontrará uma visão geral dos meus conhecimentos, habilidades e 
 
 ## Sobre Mim
 
-- 🎓 Bacharel em Administração
 - 📚 Especialização em Data Science
 - 📚 MBA em Business Intelligence
+- 🎓 Bacharel em Administração
 - 🏆 Certificada pelo Google Advanced Data Analytics
 - 🏆 Certificada pelo Google em Gerenciamento de Projetos
 
