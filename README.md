@@ -45,10 +45,10 @@ Aqui estão alguns dos projetos que desenvolvi:
    - **Descrição**:
    - **Tecnologias**:
 <br>
-Obrigada por visitar meu perfil!
-<br>
+**Obrigada por visitar meu perfil!**
+<br><br>
 Sinta-se à vontade para explorar meus projetos e entrar em contato se tiver alguma dúvida ou oportunidade de colaboração.
 
 
-[![Badge de Data Science](https://img.shields.io/badge/Data%20Science-Enthusiast-blue)](https://github.com/monicamachadodev)
+<!-- [![Badge de Data Science](https://img.shields.io/badge/Data%20Science-Enthusiast-blue)](https://github.com/monicamachadodev) --!>
 
