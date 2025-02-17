@@ -34,7 +34,7 @@ Estou sempre buscando aprender e me atualizar com as últimas tendências e tecn
 Aqui estão alguns dos projetos que desenvolvi:
 
 1. [**Agente de Negociação com Q-Learning**](https://github.com/monicamachadodev/Agente-de-negocios)
-   - **Descrição**: Simulação de mercado de ações para treinar o agente a otimizar compras e vendas com base nos preços históricos da Apple.
+   - **Descrição**: Desenvolvimento de um agente de negociação autônomo com Q-Learning para otimizar decisões de compra e venda com base nos preços históricos da Apple.
    - **Tecnologias**: `Python` `Q-Learning`
 
 2. [**Detecção de Fraude em Transações de Cartões de Crédito**](https://github.com/monicamachadodev/Deteccao-fraude-cartao-credito)
