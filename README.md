@@ -45,7 +45,7 @@ Aqui estão alguns dos projetos que desenvolvi:
    - **Descrição**:
    - **Tecnologias**:
 <br>
-**Obrigada por visitar meu perfil!**
+Obrigada por visitar meu perfil!
 <br><br>
 Sinta-se à vontade para explorar meus projetos e entrar em contato se tiver alguma dúvida ou oportunidade de colaboração.
 
