@@ -38,7 +38,7 @@ Aqui estão alguns dos projetos que desenvolvi:
    - **Tecnologias**: `Python` `Q-Learning`
 
 2. [**Detecção de Fraude em Transações de Cartões de Crédito**](https://github.com/monicamachadodev/Deteccao-fraude-cartao-credito)
-   - **Descrição**:
+   - **Descrição**: Aplicação de Árvores de Decisão e Máquinas de Vetores de Suporte (SVM) Desenvolvimento e Avaliação Comparativa de Modelos de Detecção de Fraude em Transações de Cartões de Crédito
    - **Tecnologias**: `Python` `Q-Learning`
      
 3. [**Análise do Mercado de Ações com Notificação por Email**](https://github.com/monicamachadodev/projeto-analise-de-dados-financeiros)
