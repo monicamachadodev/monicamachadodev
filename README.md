@@ -43,8 +43,7 @@ Aqui estão alguns dos projetos que desenvolvi:
      
 3. [**Análise do Mercado de Ações com Relatório por E-mail**](https://github.com/monicamachadodev/projeto-analise-de-dados-financeiros)
    - **Descrição**: Análise de dados financeiros de importantes índices e ativos, gerando relatórios automáticos com o desempenho e calculando o retorno atual em porcentagem desses ativos.
-   - **Tecnologias**: `Python` `yfinance` `Pandas` `Matplotlib` `mplcyberpunk`
-Smtplib:
+   - **Tecnologias**: `Python` `yfinance` `Pandas` `Matplotlib` `mplcyberpunk` `Smtplib`
 <br>
 Obrigada por visitar meu perfil!
 <br><br>
