@@ -41,8 +41,8 @@ Aqui estão alguns dos projetos que desenvolvi:
    - **Descrição**: Desenvolvimento e Avaliação Comparativa de Modelos de Detecção de Fraude em Transações de Cartões de Crédito: Aplicação de Árvores de Decisão e Máquinas de Vetores de Suporte (SVM)
    - **Tecnologias**: `Python` `Scikit-Learn` `Snap ML`
      
-3. [**Análise do Mercado de Ações com Notificação por Email**](https://github.com/monicamachadodev/projeto-analise-de-dados-financeiros)
-   - **Descrição**: Análise de dados financeiros de importantes índices e ativos, gerando relatórios automáticos com o desempenho e calculando o retorno atual em porcentagem desses ativos. As análises são enviadas diretamente por e-mail.
+3. [**Análise do Mercado de Ações com Relatório por E-mail **](https://github.com/monicamachadodev/projeto-analise-de-dados-financeiros)
+   - **Descrição**: Análise de dados financeiros de importantes índices e ativos, gerando relatórios automáticos com o desempenho e calculando o retorno atual em porcentagem desses ativos.
    - **Tecnologias**: `Python` `Q-Learning`
 <br>
 Obrigada por visitar meu perfil!
