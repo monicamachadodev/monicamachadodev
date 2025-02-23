@@ -33,7 +33,7 @@ Estou sempre buscando aprender e me atualizar com as últimas tendências e tecn
 
 Aqui estão alguns dos projetos que desenvolvi:
 
-1. [**Previsão de Talentos de Turnover **](https://github.com/monicamachadodev/salifort-turnover-prediction)
+1. [**Modelagem Preditiva Baseada em Dados - Previsão de Turnover de Talentos**](https://github.com/monicamachadodev/salifort-turnover-prediction)
    - **Descrição**: Este projeto busca analisar e identificar padrões que influenciam a saída de talentos e propor estratégias para melhorar a retenção de talentos utilizando técnicas de análise exploratória (EDA) e modelagem preditiva.
    - **Tecnologias**: `Python` `Random Forest` `Decision Tree` `XG Boost`
 
