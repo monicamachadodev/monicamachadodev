@@ -33,15 +33,20 @@ Estou sempre buscando aprender e me atualizar com as últimas tendências e tecn
 
 Aqui estão alguns dos projetos que desenvolvi:
 
-1. [**Agente de Negociação com Q-Learning**](https://github.com/monicamachadodev/Agente-de-negocios)
+1. [**Retenção Talentos de Turnover **](https://github.com/monicamachadodev/salifort-rh)
+   - **Descrição**: Este projeto busca analisar e identificar padrões que influenciam a saída de talentos e propor estratégias para melhorar a retenção de talentos utilizando técnicas de análise exploratória (EDA) e modelagem preditiva.
+   - **Tecnologias**: `Python` `Random Forest` `Decision Tree` `XG Boost`
+
+
+2. [**Agente de Negociação com Q-Learning**](https://github.com/monicamachadodev/Agente-de-negocios)
    - **Descrição**: Desenvolvimento de um agente de negociação autônomo com Q-Learning para otimizar decisões de compra e venda com base nos preços históricos da Apple.
    - **Tecnologias**: `Python` `Q-Learning`
 
-2. [**Detecção de Fraude em Transações de Cartões de Crédito**](https://github.com/monicamachadodev/Deteccao-fraude-cartao-credito)
+3. [**Detecção de Fraude em Transações de Cartões de Crédito**](https://github.com/monicamachadodev/Deteccao-fraude-cartao-credito)
    - **Descrição**: Desenvolvimento e Avaliação Comparativa de Modelos de Detecção de Fraude em Transações de Cartões de Crédito: Aplicação de Árvores de Decisão e Máquinas de Vetores de Suporte (SVM)
    - **Tecnologias**: `Python` `Scikit-Learn` `Snap ML`
      
-3. [**Análise do Mercado de Ações com Relatório por E-mail**](https://github.com/monicamachadodev/projeto-analise-de-dados-financeiros)
+4. [**Análise do Mercado de Ações com Relatório por E-mail**](https://github.com/monicamachadodev/projeto-analise-de-dados-financeiros)
    - **Descrição**: Análise de dados financeiros de importantes índices e ativos, gerando relatórios automáticos com o desempenho e calculando o retorno atual em porcentagem desses ativos.
    - **Tecnologias**: `Python` `yfinance` `Pandas` `Matplotlib` `mplcyberpunk` `Smtplib`
 <br>
